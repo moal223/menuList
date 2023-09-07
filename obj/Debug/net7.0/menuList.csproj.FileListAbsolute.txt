@@ -1,0 +1,15 @@
+D:\C#\csharp_advanced\menuList\bin\Debug\net7.0\menuList.exe
+D:\C#\csharp_advanced\menuList\bin\Debug\net7.0\menuList.deps.json
+D:\C#\csharp_advanced\menuList\bin\Debug\net7.0\menuList.runtimeconfig.json
+D:\C#\csharp_advanced\menuList\bin\Debug\net7.0\menuList.dll
+D:\C#\csharp_advanced\menuList\bin\Debug\net7.0\menuList.pdb
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.csproj.AssemblyReference.cache
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.AssemblyInfoInputs.cache
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.AssemblyInfo.cs
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.csproj.CoreCompileInputs.cache
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.dll
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\refint\menuList.dll
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.pdb
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\menuList.genruntimeconfig.cache
+D:\C#\csharp_advanced\menuList\obj\Debug\net7.0\ref\menuList.dll
